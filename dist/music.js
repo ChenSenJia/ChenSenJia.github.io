@@ -4,6 +4,12 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
+        name: "Idlers Dream",
+        artist: "Oasis",
+        url: 'https://link.hhtjim.com/163/4225641.mp3',
+        cover: 'http://p1.music.126.net/PVVIgRuFfwuP0PS0NCblFQ==/1762517139334368.jpg',
+      },
+      {
         name: "春夏秋冬",
         artist: "张国荣",
         url: 'http://www.ytmp3.cn/down/51185.mp3',
@@ -14,12 +20,6 @@ const ap = new APlayer({
         artist: "Beady Eye",
         url: 'https://link.hhtjim.com/163/16821632.mp3',
         cover: 'https://p2.music.126.net/C5HHGFUjXLd-j4CpHFxPnA==/18404725137826011.jpg',
-      },
-      {
-        name: "Idlers Dream",
-        artist: "Oasis",
-        url: 'https://link.hhtjim.com/163/4225641.mp3',
-        cover: 'http://p1.music.126.net/PVVIgRuFfwuP0PS0NCblFQ==/1762517139334368.jpg',
       },
       {
         name: "Golden Slumbers (Acoustic)",
