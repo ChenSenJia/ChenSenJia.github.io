@@ -4,6 +4,12 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
+        name:"Champagne Supernova",
+        artist:"Oasis",
+        url:"https://link.hhtjim.com/163/17822769.mp3",
+        cover:"http://p2.music.126.net/7mQ3S-oW3-L4Lgn5xIeRRg==/17717530370099205.jpg",
+      },
+      {
         name: "Idlers Dream",
         artist: "Oasis",
         url: 'https://link.hhtjim.com/163/4225641.mp3',
