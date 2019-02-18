@@ -6,8 +6,8 @@ const ap = new APlayer({
       {
         name:"Supersonic",
         artist:"Oasis",
-        url:"https://link.hhtjim.com/163/17822820.mp3",
-        cover:"https://p1.music.126.net/low_Zvx3DkChL3IoNgSrjQ==/19229358858426744.jpg"
+        url:"https://od.lk/s/NTJfMTk5MDA2Mzlf/Supersonic.mp3",
+        cover:"https://p1.music.126.net/low_Zvx3DkChL3IoNgSrjQ==/19229358858426744.jpg",
       },
       {
         name:"Champagne Supernova",
