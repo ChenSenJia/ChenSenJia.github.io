@@ -4,22 +4,16 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
-        name:"Supersonic",
-        artist:"Oasis",
-        url:"https://od.lk/s/NTJfMTk5MDA2Mzlf/Supersonic.mp3",
-        cover:"https://p1.music.126.net/low_Zvx3DkChL3IoNgSrjQ==/19229358858426744.jpg",
-      },
-      {
-        name:"Champagne Supernova",
-        artist:"Oasis",
-        url:"https://link.hhtjim.com/163/17822769.mp3",
-        cover:"http://p2.music.126.net/7mQ3S-oW3-L4Lgn5xIeRRg==/17717530370099205.jpg",
-      },
-      {
         name: "Idlers Dream",
         artist: "Oasis",
         url: 'https://link.hhtjim.com/163/4225641.mp3',
         cover: 'http://p1.music.126.net/PVVIgRuFfwuP0PS0NCblFQ==/1762517139334368.jpg',
+      },
+      {
+        name:"Image",
+        artist:"John Lennon",
+        url:"https://link.hhtjim.com/163/1476106.mp3",
+        cover:"http://p2.music.126.net/72hMhPqrHdyZk8wS-qwMvQ==/843325418554728.jpg",
       },
       {
         name: "春夏秋冬",
